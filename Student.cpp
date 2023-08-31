@@ -2,7 +2,7 @@
 using namespace std;
 
 int numStudent, *student, numlab, *lab; 
-int notalab1=0, notalab2=0, notalab3=0;
+float notalab1=0, notalab2=0, notalab3=0;
 
 
 void St(){
